@@ -32,15 +32,15 @@ span {
     color: #ff7300;
 }
 
-.home{
+.home {
     cursor: pointer;
 }
 
-ul li{
+ul li {
     cursor: b;
 }
 
-ul li:hover{
+ul li:hover {
     color: #698921;
 }
 
@@ -60,13 +60,13 @@ ul li:hover{
     gap: 135px;
 }
 
-.hero{
+.hero {
     display: flex;
     flex-direction: column;
     gap: 50px;
 }
 
-.htb{
+.htb {
     display: flex;
     flex-direction: column;
     gap: 20px;
