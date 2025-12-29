@@ -37,7 +37,7 @@ span {
 }
 
 ul li {
-    cursor: b;
+    cursor: pointer;
 }
 
 ul li:hover {

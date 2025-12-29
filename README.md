@@ -8,7 +8,6 @@ A responsive Italian restaurant landing page showcasing delicious food and resta
 
 - HTML5
 - CSS3
-- JavaScript
 - FontAwesome Icons
 - Responsive Design
 
@@ -74,7 +73,7 @@ Contributions are welcome! To contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
 
 ## Contact
 
